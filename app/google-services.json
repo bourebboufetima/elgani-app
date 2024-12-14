@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358284240929",
+    "project_id": "elgani-e71ea",
+    "storage_bucket": "elgani-e71ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358284240929:android:f2d3de166b956e1d1b9b60",
+        "android_client_info": {
+          "package_name": "com.example.elgani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-4tGAzLgjwHDSiZ_i4YLfPVAi9F9bQqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

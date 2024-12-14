@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Elgani</string>
+    <string-array name="service_field">
+        <item>Web Development</item>
+        <item>Software Development</item>
+        <item>Architecture</item>
+        <item>Graphic Design</item>
+        <!-- Add more fields as needed -->
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
